@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.5217391
+Clouds: 0.01086957
+Grime: 0.3804348
+Palette: 7
+EffectColorA: 2
+EffectColorB: 0
+Effects: LightBurn-0.3695652-20-20, 
+PlacedObjects: LightSource><383.3002><166.509><0.09782609~White~151~140~262~84.60251~1~1, LightSource><509.5712><356.9103><0.1195652~White~209~-70~139~-23.39746~1~1, LightSource><556.844><533.6248><0.1086956~White~95~-211~108~-117.3975~1~1, LightSource><516.4244><392.598><0.05434782~Environment~864~-351~272~261.6025~1~1, InsectGroup><482.3926><313.6402><27~158~-367~190~Moth~0.4021739, 
+AmbientSounds: OMNI><OM.wav><673.4274><340.0925><0.25><1, OMNI><Mech Basic.wav><695.8705><488.0976><0.1086956><1, OMNI><SO_WAT-MoreDrips.ogg><720.3999><264.4232><0.3152174><1, 
+WetTerrain: OFF
