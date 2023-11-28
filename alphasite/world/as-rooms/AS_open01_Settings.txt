@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.01086957
+Grime: 0
+Palette: 38
+EffectColorA: 0
+EffectColorB: 1
+AmbientSounds: OMNI><Mech Active.wav><675.3058><400.0477><0.2173913><1, 
+WetTerrain: OFF

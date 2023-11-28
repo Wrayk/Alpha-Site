@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0.3586957
+Clouds: 0.01086957
+Grime: 0.1521739
+Palette: 38
+EffectColorA: 3
+EffectColorB: 0
+PlacedObjects: InsectGroup><251.2><76.99483><173~51~0~0~RockFlea~0.6521739, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><480.1031><446.8643><0.423913><0.8043478, 
+WetTerrain: OFF
