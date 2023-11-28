@@ -1,0 +1,5 @@
+Template: NONE
+Grime: 0.3043478
+Palette: 38
+AmbientSounds: OMNI><Deep Weird Wind.wav><709.23><414.051><0.3043478><1, 
+WetTerrain: OFF
