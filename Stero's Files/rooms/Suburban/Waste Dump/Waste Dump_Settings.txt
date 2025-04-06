@@ -1,10 +1,9 @@
 Template: NONE
 CeilingDrips: 0.2608696
-Clouds: 0
 Grime: 0
 Palette: 38
 EffectColorA: 0
 EffectColorB: 9
-PlacedObjects: CustomDecal><129.3136><41.57249><10~577~1208~584~1232~3~112~207~0~1~0~BigMud~0.7065217~0~0.7065217~0~0.7065217~0~0.7065217~0, 
-AmbientSounds: OMNI><AM_ENV-LightWind.ogg><731.1606><516.8808><0.2173913><1, OMNI><Mech Active.wav><698.6231><395.6546><0.1304348><1, OMNI><Noise Wind.wav><716.6469><354.8287><0.1956522><1, 
+PlacedObjects: CustomDecal><145.2159><50.80292><2~589~1191~583~1187~-1~-66~138~0~1~0~bigmud~1~0~1~0~1~0~1~0, 
+AmbientSounds: OMNI><Mech Active.wav><709.2729><368.6987><0.3586957><1, OMNI><Basic Mech.wav><726.6862><426.9269><0.25><1, 
 WetTerrain: OFF
