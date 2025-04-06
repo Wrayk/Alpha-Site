@@ -1,6 +1,7 @@
 Template: NONE
 DangerType: Flood
-Grime: 0
+CeilingDrips: 0.2391304
+Grime: 0.2717391
 Palette: 40
-AmbientSounds: OMNI><OM.wav><683.9404><340.8113><0.2934783><1, OMNI><Mech Multiactive Highpass.wav><690.2504><219.2><0.173913><1, 
+AmbientSounds: OMNI><OM.wav><569.5792><231.5663><0.4021739><1, 
 WetTerrain: OFF

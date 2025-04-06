@@ -1,0 +1,7 @@
+Template: NONE
+CeilingDrips: 0.5543478
+Grime: 0
+Palette: 40
+EffectColorB: 9
+AmbientSounds: OMNI><Basic Mech.ogg><718.3804><441.4017><0.326087><1, 
+WetTerrain: OFF
