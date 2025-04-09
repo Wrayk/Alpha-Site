@@ -1,5 +1,6 @@
 Template: NONE
-CeilingDrips: 0.5543478
+CeilingDrips: 0.3913043
+Clouds: 0
 Grime: 0.4891304
 Palette: 38
 EffectColorA: 0

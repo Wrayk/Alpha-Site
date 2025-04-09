@@ -1,0 +1,11 @@
+Template: NONE
+CeilingDrips: 0.2065217
+Clouds: 0.01086957
+Grime: 0.3043478
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 36
+EffectColorB: 2
+PlacedObjects: CustomDecal><430.9222><223.6018><-6~211~401~210~397~3~-334~224~0.326087~1~0~Pink Tag~1~0~1~0~1~0~1~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><356.303><506.4655><0.5><1, OMNI><AM_WIN-NiceWnd.ogg><744.6956><362.9425><0.3043478><1, 
+WetTerrain: OFF
