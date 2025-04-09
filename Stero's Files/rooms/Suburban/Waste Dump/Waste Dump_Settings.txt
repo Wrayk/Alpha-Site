@@ -4,6 +4,6 @@ Grime: 0
 Palette: 38
 EffectColorA: 0
 EffectColorB: 9
-PlacedObjects: CustomDecal><145.2159><50.80292><2~589~1191~583~1187~-1~-66~138~0~1~0~bigmud~1~0~1~0~1~0~1~0, 
+PlacedObjects: CustomDecal><145.2159><50.80292><2~589~1191~583~1187~-1~-66~138~0~1~0~bigmud~0.6304349~0~0.6304349~0~0.6304349~0~0.6304349~0, 
 AmbientSounds: OMNI><Mech Active.wav><709.2729><368.6987><0.3586957><1, OMNI><Basic Mech.wav><726.6862><426.9269><0.25><1, 
 WetTerrain: OFF
