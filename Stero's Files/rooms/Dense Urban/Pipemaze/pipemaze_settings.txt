@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0
+Grime: 0.3913043
+Palette: 36
+EffectColorB: 9
+WetTerrain: OFF
