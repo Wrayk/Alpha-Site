@@ -2,3 +2,4 @@ Wrayk - discord/github infrastructure
 AndrewFMs - alpha palettes
 Dakras - feed lizards room
 Willburd - help with level editor tinkering
+dedniko - cool tiles, tileman
