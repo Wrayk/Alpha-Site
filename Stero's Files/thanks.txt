@@ -1,4 +1,7 @@
 Wrayk - discord/github infrastructure
+Tronsx - levels
+
+special thanks:
 AndrewFMs - alpha palettes
 Dakras - feed lizards room
 Willburd - help with level editor tinkering
