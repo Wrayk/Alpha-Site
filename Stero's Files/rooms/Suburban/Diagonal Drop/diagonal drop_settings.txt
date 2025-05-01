@@ -1,0 +1,3 @@
+Template: NONE
+Palette: 38
+WetTerrain: OFF
