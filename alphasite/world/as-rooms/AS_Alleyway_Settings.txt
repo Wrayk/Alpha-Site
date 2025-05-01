@@ -1,9 +1,2 @@
-Template: NONE
-DangerType: Flood
-CeilingDrips: 0.2826087
-Grime: 0
-Palette: 40
-EffectColorA: 0
-EffectColorB: 0
-AmbientSounds: OMNI><OM.wav><692.1544><335.3729><0.3478261><1, 
+Template: as_settingstemplate_underground
 WetTerrain: OFF

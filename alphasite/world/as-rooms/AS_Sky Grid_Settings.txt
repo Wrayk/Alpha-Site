@@ -1,9 +1,9 @@
-Template: NONE
+Template: as_settingstemplate_sky
 CeilingDrips: 0.4021739
 Grime: 0
-Palette: 41
+Palette: 319
 EffectColorA: 0
 EffectColorB: 0
 Effects: SkyBloom-1-20-20, 
-AmbientSounds: OMNI><Noise Wind.wav><688.0895><354.8806><0.2717391><1, OMNI><AM_ENV-NatWind.ogg><715.05><490.0031><0.6413044><1, OMNI><AM_IND-Shock02.ogg><671.1873><195.4297><0.2065217><0.1391304, 
+AmbientSounds: OMNI><Noise Wind.wav><688.0895><354.8806><0.2717391><1, OMNI><AM_ENV-NatWind.ogg><715.05><490.0031><0.6413044><1, 
 WetTerrain: OFF

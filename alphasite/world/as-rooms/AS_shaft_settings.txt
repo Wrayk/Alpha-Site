@@ -1,6 +1,5 @@
-Template: NONE
 CeilingDrips: 0.423913
-Palette: 38
+Palette: 316
 EffectColorA: 2
 AmbientSounds: OMNI><Mech Basic.wav><707.9295><354.3382><0.4021739><1, 
 WetTerrain: OFF

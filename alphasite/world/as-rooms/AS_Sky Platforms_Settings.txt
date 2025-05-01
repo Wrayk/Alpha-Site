@@ -1,7 +1,7 @@
-Template: NONE
+Template: as_settingstemplate_sky
 CeilingDrips: 0.2934783
 Grime: 0.3804348
-Palette: 41
+Palette: 319
 EffectColorA: 3
 EffectColorB: 0
 Effects: SkyBloom-1-20-20, 

@@ -1,5 +1,4 @@
-Template: NONE
-Palette: 38
+Palette: 316
 EffectColorA: 3
 EffectColorB: 3
 WetTerrain: OFF

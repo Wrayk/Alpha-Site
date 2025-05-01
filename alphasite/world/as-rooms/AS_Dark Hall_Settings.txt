@@ -1,9 +1,9 @@
-Template: NONE
+Template: as_settingstemplate_underground
 DangerType: Flood
 CeilingDrips: 0.4782609
 Clouds: 0
 Grime: 0
-Palette: 40
+Palette: 318
 EffectColorA: 9
 EffectColorB: 0
 AmbientSounds: OMNI><OM.wav><680.1997><342.261><0.3913043><1, 

@@ -1,8 +1,7 @@
-Template: NONE
 CeilingDrips: 0.5978261
-Clouds: 0.0
+Clouds: 0
 Grime: 0.3369565
-Palette: 38
+Palette: 316
 EffectColorA: 0
 EffectColorB: 2
 AmbientSounds: OMNI><Mech Active.wav><713.1018><401.3279><0.173913><1, 

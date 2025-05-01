@@ -1,8 +1,8 @@
-Template: NONE
+Template: as_settingstemplate_underground
 CeilingDrips: 0.5326087
 Clouds: 0
 Grime: 0.3804348
-Palette: 40
+Palette: 318
 EffectColorA: 9
 Effects: LightBurn-0.1847826-20-20, 
 PlacedObjects: LightSource><513.8739><251.343><0.2391304~EffectColor1~-16~9~-681~258.6026~1~1~None~0~0, LightSource><589.7849><251.9469><0.2173913~EffectColor1~9~13~-748~206.6025~1~1~None~0~0, LightSource><531.9417><251.8072><0.2173913~EffectColor1~16~7~-693~230.6025~1~1~None~0~0, LightSource><685.5502><251.5079><0.2173913~EffectColor1~17~9~-573~229.6026~1~1~None~0~0, LightSource><667.9039><251.3724><0.2173913~EffectColor1~7~16~-556~259.6025~1~1~None~0~0, LightSource><610.734><250.6994><0.2065217~EffectColor1~16~6~-499~287.6025~1~1~None~0~0, LightSource><251.0511><268.9434><0.3804348~Environment~-8~93~-247~-215.3975~1~1~None~0~0, LightSource><269.8007><478.7339><0.25~Environment~40~-110~222~59.60254~1~1~None~0~0, 

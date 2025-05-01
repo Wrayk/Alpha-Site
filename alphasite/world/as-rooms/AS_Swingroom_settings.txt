@@ -1,5 +1,5 @@
-Template: NONE
-Palette: 36
+Template: as_settingstemplate_denseurban
+Palette: 317
 EffectColorB: 9
 AmbientSounds: OMNI><Mech Basic.wav><704.1971><352.7162><0.4782609><1, 
 WetTerrain: OFF

@@ -1,3 +1,4 @@
-Template: NONE
-Palette: 38
+Template: as_settingstemplate_denseurban
+Palette: 317
+EffectColorA: 2
 WetTerrain: OFF

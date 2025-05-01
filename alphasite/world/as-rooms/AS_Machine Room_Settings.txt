@@ -1,7 +1,7 @@
-Template: NONE
+Template: as_settingstemplate_denseurban
 CeilingDrips: 0.3804348
 Grime: 0
-Palette: 36
+Palette: 317
 EffectColorA: 2
 EffectColorB: 0
 AmbientSounds: OMNI><Basic Mech.ogg><693.4812><444.4491><0.1956522><1, OMNI><Mech Multiactive Highpass.wav><686.1813><366.9155><0.2826087><1, 

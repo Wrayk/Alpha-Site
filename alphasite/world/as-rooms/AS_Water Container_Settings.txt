@@ -1,8 +1,2 @@
-Template: NONE
-DangerType: FloodAndRain
-Grime: 0.3043478
-Palette: 36
-EffectColorA: 2
-EffectColorB: 2
-AmbientSounds: OMNI><Mech Basic.wav><706.8355><379.8637><0.2717391><1, OMNI><SO_WAT-OpenFlow.ogg><740.5521><169.0292><0.173913><0.4326087, 
+Template: as_settingstemplate_denseurban
 WetTerrain: OFF

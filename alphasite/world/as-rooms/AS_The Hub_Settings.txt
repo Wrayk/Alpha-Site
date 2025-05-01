@@ -1,12 +1,12 @@
-Template: NONE
+Template: as_settingstemplate_underground
 DangerType: Flood
 CeilingDrips: 0.3043478
 Clouds: 0
 Grime: 0
-Palette: 40
+Palette: 318
 EffectColorA: 2
 EffectColorB: 0
 Effects: LightBurn-0.1630435-20-20, 
-PlacedObjects: LightSource><571.2><338.7476><0.07608695~Environment~513~-14~161~-103.3975~1~1, LightSource><492.6467><176.864><0.2608696~Environment~120~0~236~-14.39746~1~1, LightSource><487.8187><516.5622><0.3695652~Environment~31~46~50~86.60254~1~1, LightSource><611.3953><531.1374><0.4347826~Environment~51~-16~77~-41.39746~1~1, 
-AmbientSounds: OMNI><OM.wav><688.4395><343.8141><0.1956522><1, 
+PlacedObjects: LightSource><571.2><338.7476><0.07608695~Environment~513~-14~161~-103.3975~1~1~None~0~0, LightSource><492.6467><176.864><0.2608696~Environment~120~0~236~-14.39746~1~1~None~0~0, LightSource><487.8187><516.5622><0.3695652~Environment~31~46~50~86.60254~1~1~None~0~0, LightSource><611.3953><531.1374><0.4347826~Environment~51~-16~77~-41.39746~1~1~None~0~0, 
+AmbientSounds: OMNI><OM.wav><688.4395><343.8141><0.326087><1, 
 WetTerrain: OFF

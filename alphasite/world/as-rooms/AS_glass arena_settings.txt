@@ -1,6 +1,5 @@
-Template: NONE
 Grime: 0.423913
-Palette: 38
+Palette: 316
 EffectColorA: 5
 EffectColorB: 5
 WetTerrain: OFF

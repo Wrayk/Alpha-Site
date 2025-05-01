@@ -1,10 +1,8 @@
-Template: NONE
+Template: as_settingstemplate_denseurban
 CeilingDrips: 0.2065217
-Clouds: 0.01086957
-Grime: 0.3043478
 RandomItemDensity: 0
 RandomItemSpearChance: 0
-Palette: 36
+Palette: 317
 EffectColorB: 2
 PlacedObjects: CustomDecal><381.9222><175.6018><1~188~402~190~404~-1~-334~224~0.326087~1~0~Pink Tag~0.7826087~0~0.7065217~0~0.7826087~0~0.3695652~0, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><356.303><506.4655><0.5><1, OMNI><AM_WIN-NiceWnd.ogg><744.6956><362.9425><0.3043478><1, 

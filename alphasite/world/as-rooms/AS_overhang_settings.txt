@@ -1,6 +1,6 @@
-Template: NONE
+Template: as_settingstemplate_superstructure
 Clouds: 0.01086957
 Grime: 0.3369565
-Palette: 42
+Palette: 320
 EffectColorB: 2
 Effects: Lightning-0.7282609-20-20, GreenSparks-0.4565217-24-82, 

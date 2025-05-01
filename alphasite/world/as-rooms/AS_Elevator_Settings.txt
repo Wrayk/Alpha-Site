@@ -1,8 +1,7 @@
-Template: NONE
-CeilingDrips: 0.2282609
+Template: as_settingstemplate_denseurban
 Clouds: 0
 Grime: 0.25
-Palette: 36
+Palette: 317
 EffectColorA: 3
 AmbientSounds: OMNI><Mech Basic.wav><707.6455><387.4205><0.25><1, 
 WetTerrain: OFF

@@ -1,6 +1,5 @@
-Template: NONE
 Grime: 0
-Palette: 38
-EffectColorB: 2
+Palette: 316
+EffectColorB: 5
 AmbientSounds: OMNI><Mech Active.wav><688.8702><400.1521><0.2717391><1, 
 WetTerrain: OFF

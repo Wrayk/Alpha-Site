@@ -5,4 +5,4 @@ Subregion: Suburban
 Subregion: Dense Urban
 Subregion: Superstructure
 Subregion: Sky Islands
-Room Setting Templates: Suburban, DenseUrban, Sky, Superstructure, Rust
+Room Setting Templates: Suburban, DenseUrban, Sky, Superstructure, Rust, Underground

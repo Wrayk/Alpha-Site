@@ -1,8 +1,8 @@
-Template: NONE
+Template: as_settingstemplate_underground
 DangerType: Flood
 CeilingDrips: 0.6195652
 Grime: 0
-Palette: 40
+Palette: 318
 EffectColorA: 0
 EffectColorB: 0
 AmbientSounds: OMNI><Basic Mech.wav><689.8986><429.8661><0.25><1, OMNI><OM.wav><688.8253><344.4026><0.3369565><1, 

@@ -1,4 +1,4 @@
-Template: NONE
+Template: as_settingstemplate_underground
 DangerType: Rain
 CeilingDrips: 0.6304348
 RainIntensity: 0
@@ -7,7 +7,7 @@ Grime: 0.25
 RandomItemDensity: 0
 RandomItemSpearChance: 0
 WaterReflectionAlpha: 0
-Palette: 40
+Palette: 318
 EffectColorA: 9
 EffectColorB: 0
 AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><721.9833><282.4493><0.5><1, 

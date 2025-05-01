@@ -1,0 +1,2 @@
+Template: as_settingstemplate_denseurban
+EffectColorB: 2

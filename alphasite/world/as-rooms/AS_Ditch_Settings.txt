@@ -1,6 +1,6 @@
-Template: NONE
+Template: as_settingstemplate_underground
 DangerType: Flood
 Grime: 0.2608696
-Palette: 40
+Palette: 318
 EffectColorA: 2
 WetTerrain: OFF

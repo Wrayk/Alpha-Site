@@ -1,7 +1,7 @@
-Template: NONE
+Template: as_settingstemplate_sky
 Grime: 0.4456522
-Palette: 41
+Palette: 319
 EffectColorA: 2
 Effects: SkyBloom-1-20-20, 
-AmbientSounds: OMNI><Deep Weird Wind.wav><740.9033><417.8716><0.2391304><1, OMNI><AM_WIN-NiceWnd.ogg><747.3688><519.401><0.4565217><1, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><740.9033><417.8716><0.2391304><1, OMNI><Noise Wind.wav><773.9158><566.6119><0.423913><1, 
 WetTerrain: OFF

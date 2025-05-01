@@ -1,9 +1,8 @@
-Template: NONE
 DangerType: Rain
 CeilingDrips: 0.6521739
-Clouds: 0.0
+Clouds: 0
 Grime: 0.1521739
-Palette: 38
+Palette: 316
 EffectColorA: 0
 EffectColorB: 8
 AmbientSounds: OMNI><Mech Basic.wav><696.5101><384.0503><0.2826087><1, 

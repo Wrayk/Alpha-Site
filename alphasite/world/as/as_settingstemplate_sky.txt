@@ -1,0 +1,21 @@
+DangerType: Rain
+CeilingDrips: 0.4021739
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.5
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 319
+EffectColorA: 2
+EffectColorB: 2
+Effects: SkyBloom-1-20-20, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><683.1212><414.0909><0.2717391><1, OMNI><Noise Wind.wav><696.3268><358.0999><0.2717391><1, 

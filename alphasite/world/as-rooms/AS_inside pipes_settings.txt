@@ -1,5 +1,5 @@
-Template: NONE
+Template: as_settingstemplate_underground
 Grime: 0.4021739
-Palette: 40
+Palette: 318
 EffectColorA: 9
 WetTerrain: OFF
