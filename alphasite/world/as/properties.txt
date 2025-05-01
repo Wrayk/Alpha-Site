@@ -1,1 +1,8 @@
-Subregion: Alpha Site
+Palette: 316
+overseersSpawnChance: 0
+playerGuideOverseerSpawnChance: 0
+Subregion: Suburban
+Subregion: Dense Urban
+Subregion: Superstructure
+Subregion: Sky Islands
+Room Setting Templates: Suburban, DenseUrban, Sky, Superstructure, Rust

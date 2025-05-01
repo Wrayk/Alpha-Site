@@ -1,8 +1,0 @@
-Template: NONE
-CeilingDrips: 0.4456522
-Grime: 0.3695652
-Palette: 36
-EffectColorA: 2
-EffectColorB: 2
-AmbientSounds: OMNI><Mech Active.wav><695.5942><402.1245><0.3586957><1, 
-WetTerrain: OFF

@@ -1,8 +1,0 @@
-Template: NONE
-CeilingDrips: 0.4347826
-Clouds: 0.1304348
-Grime: 0
-Palette: 16
-EffectColorA: 2
-Effects: Lightning-0.6847826-20-20, 
-AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><721.8296><549.3546><0.4347826><0.7847826, 

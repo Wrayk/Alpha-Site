@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Thunder
+CeilingDrips: 0.6521739
+RumbleIntensity: 0.1521739
+Clouds: 0.01
+Grime: 0.25
+BkgDroneVolume: 0
+Palette: 42
+EffectColorA: 2
+Effects: ElectricDeath-1-23-69, ExtraLoudThunder-0.6086956-235-33, Lightning-0.8043478-20-20, GreenSparks-0.09782609-288-96, 
+AmbientSounds: OMNI><SO_ENV-StrongWnd.ogg><697.8409><325.1212><0.5543478><1, OMNI><AM_WIN-MedWind.ogg><728.9124><533.3832><0.3478261><1, 
+WetTerrain: OFF

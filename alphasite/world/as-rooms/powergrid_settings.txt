@@ -1,0 +1,7 @@
+Template: NONE
+CeilingDrips: 0.5434783
+Clouds: 0.06521739
+Grime: 0.2717391
+Palette: 42
+Effects: Lightning-0.8043478-20-20, 
+WetTerrain: OFF

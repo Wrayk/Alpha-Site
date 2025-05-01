@@ -1,12 +1,12 @@
 {
-	"id": "alpha_site",
+	"id": "rwalpha",
 	"name": "Alpha Site",
-	"version": "1.0",
-	"hide_version": true,
-	"authors": "Stero & Wrayk"
-	"description": "A look into Rain World's past through a region based on Alpha rooms.",
-	"requirements": ["regionkit", "crs"],
-	"requirement_names": ["RegionKit", "Custom Regions Support"],
-        "tags": ["Regions"],
+	"version": "alpha",
+	"hide_version": false,
+	"authors": "Joar"
+	"description": "A region based on Alpha Rain World.",
+	"requirements": [],
+	"requirement_names": [],
+    "tags": ["Regions"],
 	"checksum_override_version": false
 }

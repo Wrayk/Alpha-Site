@@ -1,0 +1,8 @@
+Template: NONE
+CeilingDrips: 0.4565217
+Clouds: 0
+Grime: 0.3043478
+Palette: 38
+EffectColorA: 2
+AmbientSounds: OMNI><AM_WIN-SubWnd.ogg><730.0896><488.3806><0.7065217><1, OMNI><Mech Active.wav><689.6195><403.1516><0.2173913><1, 
+WetTerrain: OFF

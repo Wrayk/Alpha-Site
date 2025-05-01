@@ -1,0 +1,9 @@
+Template: NONE
+CeilingDrips: 0.4021739
+Grime: 0.3913043
+Palette: 41
+EffectColorA: 0
+EffectColorB: 0
+Effects: SkyBloom-1-20-20, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><683.1212><414.0909><0.2934783><1, OMNI><Noise Wind.wav><696.3268><358.0999><0.2282609><1, 
+WetTerrain: OFF

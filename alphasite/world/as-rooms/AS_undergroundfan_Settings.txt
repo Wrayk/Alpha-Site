@@ -1,9 +1,0 @@
-Template: NONE
-DangerType: FloodAndRain
-CeilingDrips: 0.5652174
-Grime: 0.3804348
-Palette: 40
-Effects: LightBurn-0.3478261-20-20, 
-PlacedObjects: LightSource><737.8333><674.8895><0.1195652~Environment~96~-468~-530~-71.39746~1~1, LightSource><765.1475><368.3851><0.07608695~Environment~86~154~50~86.60254~1~1, LightSource><674.6998><548.7422><0.2065217~Environment~0~100~50~86.60254~1~1, 
-AmbientSounds: OMNI><OM.wav><690.5235><342.0514><0.2282609><1, OMNI><Mech Basic.wav><692.3629><170.6651><0.173913><1, 
-WetTerrain: OFF

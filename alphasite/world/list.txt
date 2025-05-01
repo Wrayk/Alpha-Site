@@ -1,0 +1,79 @@
+Access
+Alleyway
+Balconies
+Big Room
+Birdies
+Blocks
+Brain Tree
+Bubble Arena
+Bubbles
+Cables
+Caos
+Charges
+Chimney
+Colloseum
+Courtyard
+Dark Hall
+Diagonal Drop
+Ditch
+Drills
+Dusty Vent
+Elevator
+Extractor
+Fan Pit
+feedLizards
+Field
+Fog
+Garbage
+Glass Arena
+Glass Floors
+Grid
+Growers
+Hole
+Inside Pipes
+Levels
+Loops
+Machine Room
+moshPit
+Outskirts
+Overhang
+Pillars
+Pipe Corridor
+Pipemaze
+Pipes
+pit
+platforms
+Pole Sector
+poles2
+Powergrid
+Pylons
+Range
+Roof
+Rooms
+Rupture
+Shaft
+Shelter1
+Shelter2
+showLevel
+Sidedrop
+Six Box
+Sky Grid
+Sky Island
+Sky Platforms
+Small Room
+SpaciousRoom
+Stoneheads
+Supports
+Swingroom
+Tank Hall
+The Hub
+Three Platforms
+Totems
+Tower
+Turbines
+underground fan
+Underhang
+Vents
+Waste Dump
+Water Container
+Waterfall

@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.3043478
+Palette: 36
+EffectColorA: 9
+AmbientSounds: OMNI><Noise Wind.wav><707.5768><358.85><0.3804348><0.6086956, 
+WetTerrain: OFF

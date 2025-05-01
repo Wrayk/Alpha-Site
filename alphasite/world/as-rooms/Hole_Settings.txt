@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.6195652
+Grime: 0.3478261
+Palette: 40
+EffectColorA: 9
+EffectColorB: 0
+PlacedObjects: LightSource><951.3052><689.4548><0.2065217~White~15~-13~-234~-182.3975~0~1, LightSource><970.9485><688.7258><0.2065217~White~16~13~-259~-294.3975~0~1, LightSource><989.0587><688.3082><0.2065217~White~10~19~-174~-236.3975~0~1, LightSource><1010.797><690.4445><0.2065217~White~12~19~-250~-407.3975~0~1, 
+AmbientSounds: OMNI><OM.wav><689.858><337.9183><0.2282609><1, OMNI><AM_WIN-SubWnd.ogg><713.7806><486.4476><0.4130435><1, 
+WetTerrain: OFF

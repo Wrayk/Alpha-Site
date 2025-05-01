@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: Thunder
+CeilingDrips: 0.6521739
+Clouds: 0.01
+Grime: 0.4347826
+BkgDroneVolume: 0
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.3195651
+Palette: 42
+EffectColorA: 2
+EffectColorB: 3
+Effects: Lightning-0.8043478-20-20, GreenSparks-0.3043478-27-96, ExtraLoudThunder-0.6086956-261-35, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><731.6166><486.101><0.6413044><1, OMNI><AM_WIN-HowlingWnd.ogg><754.1028><553.1354><0.5652174><1, 
+WetTerrain: OFF

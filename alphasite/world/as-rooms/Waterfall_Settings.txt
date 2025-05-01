@@ -1,0 +1,6 @@
+Template: NONE
+CeilingDrips: 0.2608696
+Grime: 0
+Palette: 43
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><716.7281><520.5512><0.2717391><1, OMNI><Mech Active.wav><719.1955><398.4578><0.25><1, 
+WetTerrain: OFF

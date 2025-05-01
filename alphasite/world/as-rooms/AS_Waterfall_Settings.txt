@@ -1,5 +1,0 @@
-Template: NONE
-Grime: 0.3043478
-Palette: 43
-AmbientSounds: OMNI><AM_ENV-LightWind.ogg><716.7281><520.5512><0.4565217><1, OMNI><Mech Active.wav><719.1955><398.4578><0.1086956><1, OMNI><SO_WAT-OpenFlow.ogg><710.1999><250.7569><0.25><1, 
-WetTerrain: OFF
