@@ -1,79 +1,79 @@
-Access
-Alleyway
-Balconies
-Big Room
-Birdies
-Blocks
-Brain Tree
-Bubble Arena
-Bubbles
-Cables
-Caos
-Charges
-Chimney
-Colloseum
-Courtyard
-Dark Hall
-Diagonal Drop
-Ditch
-Drills
-Dusty Vent
-Elevator
-Extractor
-Fan Pit
-feedLizards
-Field
-Fog
-Garbage
-Glass Arena
-Glass Floors
-Grid
-Growers
-Hole
-Inside Pipes
-Levels
-Loops
-Machine Room
-moshPit
-Outskirts
-Overhang
-Pillars
-Pipe Corridor
-Pipemaze
-Pipes
-pit
-platforms
-Pole Sector
-poles2
-Powergrid
-Pylons
-Range
-Roof
-Rooms
-Rupture
-Shaft
-Shelter1
-Shelter2
-showLevel
-Sidedrop
-Six Box
-Sky Grid
-Sky Island
-Sky Platforms
-Small Room
-SpaciousRoom
-Stoneheads
-Supports
-Swingroom
-Tank Hall
-The Hub
-Three Platforms
-Totems
-Tower
-Turbines
-underground fan
-Underhang
-Vents
-Waste Dump
-Water Container
-Waterfall
+AS_Access
+AS_Alleyway
+AS_Balconies
+AS_Big Room
+AS_Birdies
+AS_Blocks
+AS_Brain Tree
+AS_Bubble Arena
+AS_Bubbles
+AS_Cables
+AS_Caos
+AS_Charges
+AS_Chimney
+AS_Colloseum
+AS_Courtyard
+AS_Dark Hall
+AS_Diagonal Drop
+AS_Ditch
+AS_Drills
+AS_Dusty Vent
+AS_Elevator
+AS_Extractor
+AS_Fan Pit
+AS_feedLizards
+AS_Field
+AS_Fog
+AS_Garbage
+AS_Glass Arena
+AS_Glass Floors
+AS_Grid
+AS_Growers
+AS_Hole
+AS_Inside Pipes
+AS_Levels
+AS_Loops
+AS_Machine Room
+AS_moshPit
+AS_Outskirts
+AS_Overhang
+AS_Pillars
+AS_Pipe Corridor
+AS_Pipemaze
+AS_Pipes
+AS_pit
+AS_platforms
+AS_Pole Sector
+AS_poles2
+AS_Powergrid
+AS_Pylons
+AS_Range
+AS_Roof
+AS_Rooms
+AS_Rupture
+AS_Shaft
+AS_Shelter1
+AS_Shelter2
+AS_showLevel
+AS_Sidedrop
+AS_Six Box
+AS_Sky Grid
+AS_Sky Island
+AS_Sky Platforms
+AS_Small Room
+AS_SpaciousRoom
+AS_Stoneheads
+AS_Supports
+AS_Swingroom
+AS_Tank Hall
+AS_The Hub
+AS_Three Platforms
+AS_Totems
+AS_Tower
+AS_Turbines
+AS_underground fan
+AS_Underhang
+AS_Vents
+AS_Waste Dump
+AS_Water Container
+AS_Waterfall

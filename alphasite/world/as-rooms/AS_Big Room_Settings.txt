@@ -1,0 +1,6 @@
+Template: NONE
+CeilingDrips: 0.4673913
+Palette: 316
+EffectColorA: 2
+EffectColorB: 2
+WetTerrain: OFF
