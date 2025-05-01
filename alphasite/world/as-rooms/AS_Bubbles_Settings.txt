@@ -1,6 +1,6 @@
 CeilingDrips: 0.5760869
 Palette: 316
-EffectColorA: 2
+EffectColorA: 5
 EffectColorB: 0
 AmbientSounds: OMNI><Mech Active.wav><691.836><398.3856><0.2391304><1, OMNI><AM_ENV-LightWind.ogg><727.9164><516.8183><0.3913043><1, 
 WetTerrain: OFF

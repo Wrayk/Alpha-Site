@@ -2,85 +2,90 @@ CONDITIONAL LINKS
 END CONDITIONAL LINKS
 
 ROOMS
-AS_Access : DISCONNECTED
-AS_Alleyway : DISCONNECTED
-AS_Balconies : DISCONNECTED
-AS_Big Room : DISCONNECTED
-AS_Birdies : DISCONNECTED
-AS_Blocks : DISCONNECTED
-AS_Brain Tree : DISCONNECTED
-AS_Bubble Arena : DISCONNECTED
-AS_Bubbles : DISCONNECTED
-AS_Cables : DISCONNECTED
-AS_Caos : DISCONNECTED
-AS_Charges : DISCONNECTED
-AS_Chimney : DISCONNECTED
-AS_Colloseum : DISCONNECTED
-AS_Courtyard : DISCONNECTED
-AS_Dark Hall : DISCONNECTED
-AS_Diagonal Drop : DISCONNECTED
-AS_Ditch : DISCONNECTED
-AS_Drills : DISCONNECTED
-AS_Dusty Vent : DISCONNECTED
-AS_Elevator : DISCONNECTED
-AS_Extractor : DISCONNECTED
-AS_Fan Pit : DISCONNECTED
-AS_feedLizards : DISCONNECTED
-AS_Field : DISCONNECTED
-AS_Fog : DISCONNECTED
-AS_Garbage : DISCONNECTED
-AS_Glass Arena : DISCONNECTED
-AS_Glass Floors : DISCONNECTED
-AS_Grid : DISCONNECTED
-AS_Growers : DISCONNECTED
-AS_Hole : DISCONNECTED
-AS_Inside Pipes : DISCONNECTED
-AS_Levels : DISCONNECTED
-AS_Loops : DISCONNECTED
-AS_Machine Room : DISCONNECTED
-AS_moshPit : DISCONNECTED
-AS_Outskirts : DISCONNECTED
-AS_Overhang : DISCONNECTED
-AS_Pillars : DISCONNECTED
-AS_Pipe Corridor : DISCONNECTED
-AS_Pipemaze : DISCONNECTED
-AS_Pipes : DISCONNECTED
-AS_pit : DISCONNECTED
-AS_platforms : DISCONNECTED
-AS_Pole Sector : DISCONNECTED
-AS_poles2 : DISCONNECTED
-AS_Powergrid : DISCONNECTED
-AS_Pylons : DISCONNECTED
-AS_Range : DISCONNECTED
-AS_Roof : DISCONNECTED
-AS_Rooms : DISCONNECTED
-AS_Rupture : DISCONNECTED
-AS_Shaft : DISCONNECTED
-AS_Shelter1 : DISCONNECTED
-AS_Shelter2 : DISCONNECTED
-AS_showLevel : DISCONNECTED
-AS_Sidedrop : DISCONNECTED
-AS_Six Box : DISCONNECTED
-AS_Sky Grid : DISCONNECTED
-AS_Sky Island : DISCONNECTED
-AS_Sky Platforms : DISCONNECTED
-AS_Small Room : DISCONNECTED
-AS_SpaciousRoom : DISCONNECTED
-AS_Stoneheads : DISCONNECTED
-AS_Supports : DISCONNECTED
-AS_Swingroom : DISCONNECTED
-AS_Tank Hall : DISCONNECTED
-AS_The Hub : DISCONNECTED
-AS_Three Platforms : DISCONNECTED
-AS_Totems : DISCONNECTED
-AS_Tower : DISCONNECTED
-AS_Turbines : DISCONNECTED
-AS_underground fan : DISCONNECTED
-AS_Underhang : DISCONNECTED
-AS_Vents : DISCONNECTED
-AS_Waste Dump : DISCONNECTED
-AS_Water Container : DISCONNECTED
-AS_Waterfall : DISCONNECTED
+AS_Totems : AS_Shelter1, AS_Field
+AS_Field : AS_Totems, AS_Courtyard : SWARMROOM
+AS_Courtyard : AS_Field, AS_Access : SWARMROOM
+AS_Access : DISCONNECTED, AS_Courtyard, AS_The Hub
+AS_The Hub : AS_Hole, AS_Glass Arena, AS_Access, AS_Growers, DISCONNECTED, AS_Alleyway
+AS_Glass Arena : AS_The Hub, DISCONNECTED : SWARMROOM
+AS_Hole : AS_The Hub, AS_Pipes
+AS_Pipes : AS_Hole, AS_Bubble Arena, AS_platforms
+AS_Bubble Arena : DISCONNECTED, AS_Pipes : SWARMROOM
+AS_platforms : AS_Pipes, AS_Pole Sector : SWARMROOM
+AS_Pole Sector : AS_platforms, AS_Bubbles : SWARMROOM
+AS_Bubbles : AS_Blocks, AS_Pole Sector
+AS_Growers : DISCONNECTED, AS_Fog, AS_Outskirts, DISCONNECTED, AS_The Hub, DISCONNECTED
+AS_Fog : AS_Growers
+AS_Outskirts : AS_Growers, AS_Stoneheads
+AS_Stoneheads : AS_Outskirts, AS_Blocks : SWARMROOM
+AS_Blocks : AS_Stoneheads, AS_Birdies, AS_Ditch, AS_Bubbles
+
+AS_Alleyway : AS_The Hub, AS_Ditch
+AS_Birdies : AS_Blocks, AS_Extractor
+AS_Extractor : AS_Dusty Vent, AS_Birdies
+AS_Dusty Vent : AS_Waste Dump, AS_Extractor, AS_feedLizards
+AS_Ditch : AS_Alleyway, AS_Blocks, AS_Colloseum, AS_Range
+AS_Colloseum : DISCONNECTED, AS_Ditch : SWARMROOM
+AS_Range : AS_Ditch, AS_poles2, AS_showLevel : SWARMROOM
+AS_showLevel : AS_Range, AS_Shaft
+AS_Shaft : AS_showLevel, DISCONNECTED : SWARMROOM
+AS_poles2 : AS_Loops, AS_Range : SWARMROOM
+AS_Loops : AS_poles2, AS_feedLizards : SWARMROOM
+AS_feedLizards : AS_Loops, AS_Dark Hall, AS_Dusty Vent
+AS_Waste Dump : AS_Dark Hall, AS_Dusty Vent
+AS_Dark Hall : AS_Garbage, AS_Small Room, AS_Levels, AS_Six Box, AS_feedLizards, AS_Waste Dump
+AS_Small Room : AS_Roof, AS_Dark Hall
+AS_Roof : AS_SpaciousRoom, AS_Small Room : SWARMROOM
+AS_Six Box : AS_Dark Hall, AS_underground fan
+AS_underground fan : AS_Six Box : SWARMROOM
+AS_Garbage : AS_Dark Hall, AS_Big Room
+AS_Big Room : AS_Garbage, AS_Inside Pipes : SWARMROOM
+AS_SpaciousRoom : AS_Roof
+AS_Levels : AS_Dark Hall, AS_Shelter2 : SWARMROOM
+AS_Shelter2 : AS_Levels, AS_Vents
+
+AS_Shelter1 : AS_Pylons, AS_Totems
+AS_Pylons : AS_Shelter1, DISCONNECTED, AS_Waterfall
+AS_Waterfall : AS_Sidedrop, AS_Pylons
+AS_Sidedrop : AS_Waterfall, AS_Drills : SWARMROOM
+AS_Drills : AS_Sidedrop, DISCONNECTED
+
+AS_Vents : AS_Shelter2, DISCONNECTED, AS_moshPit
+AS_moshPit : AS_Vents, AS_Glass Floors : SWARMROOM
+AS_Glass Floors : AS_moshPit, AS_Tower, AS_Fan Pit : SWARMROOM
+AS_Tower : AS_Caos, AS_Glass Floors : SWARMROOM
+AS_Caos : AS_Tower, DISCONNECTED : SWARMROOM
+AS_Fan Pit : AS_Glass Floors, AS_Elevator : SWARMROOM
+AS_Elevator : AS_Pipemaze, AS_Fan Pit, AS_Diagonal Drop
+AS_Diagonal Drop : AS_Elevator : SWARMROOM
+AS_Pipemaze : AS_Elevator, AS_Water Container, AS_pit : SWARMROOM
+AS_pit : AS_Pipemaze : SWARMROOM
+AS_Water Container : AS_Rupture, AS_Pipemaze : SWARMROOM
+AS_Rupture : AS_Water Container, AS_Tank Hall : SWARMROOM
+AS_Tank Hall : AS_Brain Tree, AS_Machine Room, AS_Rupture
+AS_Machine Room : DISCONNECTED, AS_Tank Hall : SWARMROOM
+AS_Brain Tree : DISCONNECTED, AS_Swingroom, AS_Tank Hall
+AS_Swingroom : AS_Pipe Corridor, AS_Inside Pipes, AS_Brain Tree
+AS_Inside Pipes : AS_Grid, AS_Big Room, AS_Swingroom
+AS_Grid : AS_Pillars, DISCONNECTED, AS_Inside Pipes
+AS_Pillars : AS_Rooms, AS_Chimney, AS_Grid
+AS_Rooms : AS_Pillars : SWARMROOM
+AS_Pipe Corridor : AS_Supports, AS_Swingroom
+AS_Supports : AS_Turbines, AS_Pipe Corridor
+
+AS_Chimney : DISCONNECTED, AS_Pillars
+AS_Turbines : AS_Balconies, AS_Supports
+AS_Balconies : AS_Turbines, AS_Sky Island : SWARMROOM
+AS_Sky Island : AS_Balconies, AS_Sky Grid : SWARMROOM
+AS_Sky Grid : AS_Sky Island, AS_Three Platforms : SWARMROOM
+AS_Three Platforms : AS_Sky Grid, AS_Sky Platforms : SWARMROOM
+AS_Sky Platforms : AS_Overhang, AS_Three Platforms
+
+AS_Overhang : AS_Sky Platforms, AS_Underhang
+AS_Underhang : AS_Overhang, AS_Powergrid
+AS_Powergrid : AS_Charges, AS_Underhang
+AS_Charges : AS_Cables, AS_Powergrid
+AS_Cables : AS_Charges, DISCONNECTED
 
 END ROOMS
 

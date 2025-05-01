@@ -6,5 +6,5 @@ RandomItemSpearChance: 0.06956515
 Palette: 316
 EffectColorA: 2
 EffectColorB: 0
-AmbientSounds: OMNI><Mech Active.wav><724.8574><398.3597><0.25><1, 
+AmbientSounds: OMNI><Mech Active.wav><724.8574><398.3597><0.2282609><1, 
 WetTerrain: OFF

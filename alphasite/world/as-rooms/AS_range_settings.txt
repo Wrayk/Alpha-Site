@@ -1,4 +1,4 @@
 Palette: 316
-EffectColorA: 3
+EffectColorA: 2
 EffectColorB: 3
 WetTerrain: OFF
