@@ -1,4 +1,0 @@
-Template: NONE
-Palette: 36
-EffectColorA: 9
-WetTerrain: OFF

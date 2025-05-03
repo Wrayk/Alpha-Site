@@ -1,8 +1,0 @@
-Template: NONE
-CeilingDrips: 0.3043478
-Grime: 0.326087
-Palette: 38
-EffectColorA: 0
-EffectColorB: 0
-AmbientSounds: OMNI><Noise Wind.wav><697.3743><350.6567><0.1630435><1, OMNI><SO_NAT-WindTunnel.ogg><680.2632><187.6996><0.25><1, 
-WetTerrain: OFF

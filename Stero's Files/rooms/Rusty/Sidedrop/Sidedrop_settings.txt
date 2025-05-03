@@ -1,3 +1,0 @@
-Template: NONE
-Palette: 323
-AmbientSounds: OMNI><am_env-lightwind.ogg><743.5532><458.4647><0.4565217><1, OMNI><mech active.wav><703.0589><306.1911><0.1086956><1, 

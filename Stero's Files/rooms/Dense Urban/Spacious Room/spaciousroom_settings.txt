@@ -1,7 +1,0 @@
-Template: NONE
-CeilingDrips: 0.1521739
-Grime: 0
-Palette: 38
-PlacedObjects: CustomDecal><141.6959><8.959488><-2~514~849~513~853~0~-294~19~0.3152174~1~0~full wall~1~0~1~0~1~0~1~0, 
-AmbientSounds: OMNI><Mech Basic.wav><673.8071><354.1973><0.3369565><1, 
-WetTerrain: OFF

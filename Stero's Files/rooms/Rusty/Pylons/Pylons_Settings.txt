@@ -1,8 +1,0 @@
-Template: NONE
-CeilingDrips: 0.4130435
-Grime: 0.423913
-Palette: 43
-EffectColorA: 9
-EffectColorB: 8
-AmbientSounds: OMNI><SO_ENV-StrongWnd.ogg><708.4989><261.2><0.423913><1.234783, OMNI><Noise Wind.wav><609.0115><133.9497><0.2717391><1.097826, OMNI><Basic Mech.wav><682.8282><429.8976><0.3152174><1, 
-WetTerrain: OFF

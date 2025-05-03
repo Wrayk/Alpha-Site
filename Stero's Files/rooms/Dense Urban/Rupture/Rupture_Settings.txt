@@ -1,8 +1,0 @@
-Template: NONE
-CeilingDrips: 0.4456522
-Grime: 0.4130435
-Palette: 36
-EffectColorA: 0
-EffectColorB: 2
-AmbientSounds: OMNI><Mech Active.wav><697.449><398.4803><0.2282609><1, OMNI><Deep Weird Wind.wav><689.9946><324.0501><0.3586957><1, 
-WetTerrain: OFF

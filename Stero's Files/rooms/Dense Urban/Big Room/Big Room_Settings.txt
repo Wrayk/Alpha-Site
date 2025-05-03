@@ -1,9 +1,0 @@
-Template: NONE
-DangerType: Flood
-CeilingDrips: 0.4673913
-Grime: 0.5217391
-Palette: 38
-EffectColorA: 0
-EffectColorB: 2
-AmbientSounds: OMNI><Mech Basic.wav><713.6398><380.6669><0.25><1, 
-WetTerrain: OFF

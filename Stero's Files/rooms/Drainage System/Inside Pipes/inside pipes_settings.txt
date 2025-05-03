@@ -1,5 +1,0 @@
-Template: NONE
-Grime: 0.4021739
-Palette: 40
-EffectColorA: 9
-WetTerrain: OFF

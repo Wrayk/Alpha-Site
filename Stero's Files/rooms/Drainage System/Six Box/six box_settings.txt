@@ -1,6 +1,0 @@
-Template: NONE
-Grime: 0.4456522
-Palette: 40
-EffectColorA: 9
-AmbientSounds: OMNI><OM.wav><721.0803><550.8559><0.4565217><1, 
-WetTerrain: OFF

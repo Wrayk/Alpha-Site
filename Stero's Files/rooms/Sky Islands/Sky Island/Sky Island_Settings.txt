@@ -1,9 +1,0 @@
-Template: NONE
-CeilingDrips: 0.4565217
-Grime: 0.3152174
-Palette: 41
-EffectColorA: 8
-EffectColorB: 0
-Effects: SkyBloom-1-20-20, 
-AmbientSounds: OMNI><AM_ENV-NatWind.ogg><734.1693><493.8565><0.6195652><1, OMNI><Noise Wind.wav><699.5723><355.5635><0.25><1, 
-WetTerrain: OFF
