@@ -1,21 +1,26 @@
-AS_Totems: -91.69999><-150.8374><-1607.65><51.63756><1><Suburban><72><43
-AS_Field: -311.7><49.16245><-1366.65><43.63768><1><Suburban><70><41
-AS_Courtyard: -201.7><99.16255><-1245.65><-83.36256><1><Suburban><72><43
+AS_Shelter1: 568.3><-50.83755><-1699.652><-108.3625><1><><48><52
+AS_Pylons: -91.69999><-50.83755><-1826.648><41.63758><1><><50><39
+AS_Waterfall: -421.7><-200.8374><-2028.65><51.63758><1><><64><38
+AS_Sidedrop: -311.7><-100.8376><-2054.652><-95.36247><1><><48><35
+AS_Drills: 238.3><99.16255><-2122.651><-230.3625><1><><62><36
+AS_Totems: -91.69999><-150.8374><-1607.65><51.63757><1><Suburban><72><43
+AS_Field: -311.7><49.16245><-1366.65><43.63769><1><Suburban><70><41
+AS_Courtyard: -201.7><99.16255><-1245.65><-83.36255><1><Suburban><72><43
 AS_Access: -531.7><149.1626><-1091.652><-101.3623><1><Suburban><70><39
 AS_The Hub: -311.7><-150.8374><-998.6505><-202.3625><1><Suburban><72><43
 AS_Glass Arena: 18.30009><49.16245><-1098.648><-269.3625><1><Suburban><52><40
 AS_Hole: 458.3><49.16245><-996.6522><-324.3626><1><Suburban><72><43
-AS_Pipes: 458.3><-0.8375635><-1031.65><-448.3627><1><Suburban><54><37
+AS_Pipes: 458.3><-0.8375628><-1031.65><-448.3627><1><Suburban><54><37
 AS_Bubble Arena: 238.3><149.1626><-1157.65><-533.3629><1><Suburban><52><40
 AS_platforms: -531.7><-50.83755><-912.6497><-556.3626><1><Suburban><72><43
 AS_Pole Sector: -421.7><-50.83755><-740.6491><-540.3626><1><Suburban><52><40
 AS_Bubbles: 348.3><149.1626><-734.6494><-398.3628><1><Suburban><72><43
-AS_Growers: 348.3><49.16245><-852.6497><-72.36256><1><Suburban><90><42
-AS_Fog: -201.7><49.16245><-934.6522><82.63738><1><Suburban><52><39
-AS_Outskirts: -91.69999><-0.8375635><-643.6497><-87.36259><1><Suburban><70><38
+AS_Growers: 348.3><49.16245><-852.6497><-72.36255><1><Suburban><90><42
+AS_Fog: -201.7><49.16245><-934.6522><82.63739><1><Suburban><52><39
+AS_Outskirts: -91.69999><-0.8375628><-643.6497><-87.36258><1><Suburban><70><38
 AS_Stoneheads: 458.3><-100.8376><-817.6489><-262.3625><1><Suburban><70><39
 AS_Blocks: 18.30009><149.1626><-640.6497><-244.3624><1><Suburban><72><43
-AS_Alleyway: -421.7><149.1626><-510.6526><46.6375><1><Suburban><72><43
+AS_Alleyway: -421.7><149.1626><-510.6526><46.63751><1><Suburban><72><43
 AS_Birdies: -15.70022><316.1625><-471.649><-305.3628><1><><58><37
 AS_Extractor: 568.3><99.16255><-333.6489><-295.3628><1><><72><43
 AS_Dusty Vent: 348.3><99.16255><-165.6499><-300.3628><1><><72><43
@@ -25,45 +30,40 @@ AS_Range: 18.30009><-50.83755><-382.65><-557.3624><1><Suburban><51><40
 AS_showLevel: -421.7><-100.8376><-391.6492><-719.3624><1><Suburban><52><43
 AS_Shaft: 458.3><-50.83755><-497.6504><-884.3625><1><Suburban><52><40
 AS_poles2: -311.7><-50.83755><-231.648><-557.3621><1><Suburban><72><42
-AS_Loops: -421.7><-0.8375635><-79.64975><-533.3621><1><Suburban><70><38
-AS_feedLizards: -421.7><49.16245><-1.650133><-443.3628><1><Suburban><72><43
-AS_Waste Dump: 568.3><-150.8374><-19.64997><-238.3627><1><><72><43
+AS_Loops: -421.7><-0.8375628><-79.64974><-533.3621><1><Suburban><70><38
+AS_feedLizards: -421.7><49.16245><-1.650123><-443.3628><1><Suburban><72><43
+AS_Waste Dump: 568.3><-150.8374><-19.64996><-238.3627><1><><72><43
 AS_Dark Hall: -91.69999><99.16255><138.3494><-226.3627><1><><52><41
-AS_Small Room: 238.3><-100.8376><58.35006><-99.36256><1><><48><35
-AS_Roof: 128.3><-50.83755><-23.65001><57.63757><1><><52><37
+AS_Small Room: 238.3><-100.8376><58.35007><-99.36255><1><><48><35
+AS_Roof: 128.3><-50.83755><-23.65><57.63758><1><><52><37
 AS_Six Box: -201.7><-100.8376><169.3496><-363.3628><1><><52><40
 AS_underground fan: 238.3><-150.8374><183.3498><-480.3625><1><><72><42
-AS_Garbage: -91.69999><49.16245><194.3503><3.637655><1><><70><41
-AS_Big Room: -201.7><149.1626><381.3506><85.63773><1><><72><43
-AS_SpaciousRoom: 348.3><-100.8376><-93.6501><-74.36251><1><><48><35
-AS_Levels: -531.7><-0.8375635><267.3501><-323.3628><1><><52><41
+AS_Garbage: -91.69999><49.16245><194.3503><3.637664><1><><70><41
+AS_Big Room: -201.7><149.1626><381.3506><85.63774><1><><72><43
+AS_SpaciousRoom: 348.3><-100.8376><-93.65009><-74.3625><1><><48><35
+AS_Levels: -531.7><-0.8375628><267.3501><-323.3628><1><><52><41
 AS_Shelter2: -531.7><-100.8376><390.3501><-430.3631><1><><48><72
-AS_Shelter1: 568.3><-50.83755><-1699.652><-108.3625><1><><48><52
-AS_Pylons: -91.69999><-50.83755><-1826.648><41.63757><1><><50><39
-AS_Waterfall: -421.7><-200.8374><-2028.65><51.63757><1><><64><38
-AS_Sidedrop: -311.7><-100.8376><-2054.652><-95.36248><1><><48><35
-AS_Drills: 238.3><99.16255><-2122.651><-230.3625><1><><62><36
 AS_Vents: 458.3><-150.8374><477.3496><-411.3627><1><Dense Urban><54><35
-AS_moshPit: -201.7><-0.8375635><592.3503><-435.3628><1><Dense Urban><72><43
+AS_moshPit: -201.7><-0.8375628><592.3503><-435.3628><1><Dense Urban><72><43
 AS_Glass Floors: 128.3><49.16245><759.3503><-369.3627><1><Dense Urban><52><40
 AS_Tower: 18.30009><-150.8374><664.3503><-238.3627><1><Dense Urban><52><40
 AS_Caos: 568.3><149.1626><557.3503><-163.3627><1><Dense Urban><52><40
 AS_Fan Pit: -531.7><49.16245><915.3506><-422.3628><1><Dense Urban><52><39
 AS_Elevator: 458.3><99.16255><1049.35><-387.3628><1><Dense Urban><48><39
 AS_Diagonal Drop: 18.30009><99.16255><1050.35><-542.3624><1><Dense Urban><48><35
-AS_Pipemaze: 348.3><-0.8375635><1160.35><-399.3628><1><Dense Urban><52><40
-AS_pit: 568.3><-0.8375635><1286.35><-422.3631><1><Dense Urban><52><40
+AS_Pipemaze: 348.3><-0.8375628><1160.35><-399.3628><1><Dense Urban><52><40
+AS_pit: 568.3><-0.8375628><1286.35><-422.3631><1><Dense Urban><52><40
 AS_Water Container: -531.7><-200.8374><1170.352><-236.3627><1><Dense Urban><72><43
 AS_Rupture: 348.3><-50.83755><1105.35><-148.3626><1><Dense Urban><52><43
 AS_Tank Hall: -421.7><-150.8374><981.3495><-64.36221><1><Dense Urban><48><35
-AS_Machine Room: -311.7><-0.8375635><831.3506><-125.3627><1><Dense Urban><74><41
-AS_Brain Tree: 128.3><149.1626><858.3503><52.63768><1><Dense Urban><48><42
+AS_Machine Room: -311.7><-0.8375628><831.3506><-125.3627><1><Dense Urban><74><41
+AS_Brain Tree: 128.3><149.1626><858.3503><52.63769><1><Dense Urban><48><42
 AS_Swingroom: -531.7><-150.8374><718.3503><147.6373><1><Dense Urban><56><35
 AS_Inside Pipes: 568.3><49.16245><561.3503><180.6376><1><Dense Urban><48><35
 AS_Grid: 238.3><49.16245><436.3508><302.6373><1><Dense Urban><70><36
-AS_Pillars: 128.3><-0.8375635><408.3501><515.6371><1><Dense Urban><50><40
+AS_Pillars: 128.3><-0.8375628><408.3501><515.6371><1><Dense Urban><50><40
 AS_Rooms: 238.3><-50.83755><309.3501><360.6372><1><Dense Urban><52><43
-AS_Pipe Corridor: 238.3><-0.8375635><796.3503><296.6376><1><Dense Urban><48><35
+AS_Pipe Corridor: 238.3><-0.8375628><796.3503><296.6376><1><Dense Urban><48><35
 AS_Supports: 568.3><-100.8376><778.3503><468.6372><1><Dense Urban><70><41
 AS_Chimney: -421.7><99.16255><394.3501><651.6376><1><Sky Islands><48><36
 AS_Turbines: 128.3><-150.8374><659.3503><639.6376><1><Sky Islands><72><43
@@ -72,92 +72,92 @@ AS_Sky Island: 18.30009><-100.8376><584.3503><960.6379><1><Sky Islands><72><43
 AS_Sky Grid: -91.69999><-100.8376><477.3501><1117.638><1><Sky Islands><72><43
 AS_Three Platforms: -201.7><-150.8374><675.3503><1180.638><1><Sky Islands><70><38
 AS_Sky Platforms: 128.3><-100.8376><868.3503><1209.638><1><Sky Islands><72><43
-AS_Overhang: 18.30009><-0.8375635><1094.35><1241.638><1><Superstructure><52><40
+AS_Overhang: 18.30009><-0.8375628><1094.35><1241.638><1><Superstructure><52><40
 AS_Underhang: 348.3><-150.8374><1255.35><1219.638><1><Superstructure><52><41
 AS_Powergrid: -201.7><-50.83755><1406.35><1303.638><1><Superstructure><52><40
 AS_Charges: -531.7><99.16255><1547.35><1319.638><1><Superstructure><52><40
 AS_Cables: 458.3><149.1626><1700.352><1408.638><1><Superstructure><72><43
 OffScreenDen_AS: -531.7><299.1625><348.3499><985.6376><1><><0><0
-Connection: AS_Totems,AS_Shelter1,0,0,0,0,0,0
-Connection: AS_Totems,AS_Field,0,0,0,0,0,0
-Connection: AS_Field,AS_Courtyard,0,0,0,0,0,0
-Connection: AS_Courtyard,AS_Access,0,0,0,0,0,0
-Connection: AS_Access,AS_The Hub,0,0,0,0,0,0
-Connection: AS_The Hub,AS_Hole,0,0,0,0,0,0
-Connection: AS_The Hub,AS_Glass Arena,0,0,0,0,0,0
-Connection: AS_The Hub,AS_Growers,0,0,0,0,0,0
-Connection: AS_The Hub,AS_Alleyway,0,0,0,0,0,0
-Connection: AS_Hole,AS_Pipes,0,0,0,0,0,0
-Connection: AS_Pipes,AS_Bubble Arena,0,0,0,0,0,0
-Connection: AS_Pipes,AS_platforms,0,0,0,0,0,0
-Connection: AS_platforms,AS_Pole Sector,0,0,0,0,0,0
-Connection: AS_Pole Sector,AS_Bubbles,0,0,0,0,0,0
-Connection: AS_Bubbles,AS_Blocks,0,0,0,0,0,0
-Connection: AS_Growers,AS_Fog,0,0,0,0,0,0
-Connection: AS_Growers,AS_Outskirts,0,0,0,0,0,0
-Connection: AS_Outskirts,AS_Stoneheads,0,0,0,0,0,0
-Connection: AS_Stoneheads,AS_Blocks,0,0,0,0,0,0
-Connection: AS_Blocks,AS_Birdies,0,0,0,0,0,0
-Connection: AS_Blocks,AS_Ditch,0,0,0,0,0,0
-Connection: AS_Alleyway,AS_Ditch,0,0,0,0,0,0
-Connection: AS_Birdies,AS_Extractor,0,0,0,0,0,0
-Connection: AS_Extractor,AS_Dusty Vent,0,0,0,0,0,0
-Connection: AS_Dusty Vent,AS_Waste Dump,0,0,0,0,0,0
-Connection: AS_Dusty Vent,AS_feedLizards,0,0,0,0,0,0
-Connection: AS_Ditch,AS_Colloseum,0,0,0,0,0,0
-Connection: AS_Ditch,AS_Range,0,0,0,0,0,0
-Connection: AS_Range,AS_poles2,0,0,0,0,0,0
-Connection: AS_Range,AS_showLevel,0,0,0,0,0,0
-Connection: AS_showLevel,AS_Shaft,0,0,0,0,0,0
-Connection: AS_poles2,AS_Loops,0,0,0,0,0,0
-Connection: AS_Loops,AS_feedLizards,0,0,0,0,0,0
-Connection: AS_feedLizards,AS_Dark Hall,0,0,0,0,0,0
-Connection: AS_Waste Dump,AS_Dark Hall,0,0,0,0,0,0
-Connection: AS_Dark Hall,AS_Garbage,0,0,0,0,0,0
-Connection: AS_Dark Hall,AS_Small Room,0,0,0,0,0,0
-Connection: AS_Dark Hall,AS_Levels,0,0,0,0,0,0
-Connection: AS_Dark Hall,AS_Six Box,0,0,0,0,0,0
-Connection: AS_Small Room,AS_Roof,0,0,0,0,0,0
-Connection: AS_Roof,AS_SpaciousRoom,0,0,0,0,0,0
-Connection: AS_Six Box,AS_underground fan,0,0,0,0,0,0
-Connection: AS_Garbage,AS_Big Room,0,0,0,0,0,0
-Connection: AS_Big Room,AS_Inside Pipes,0,0,0,0,0,0
-Connection: AS_Levels,AS_Shelter2,0,0,0,0,0,0
-Connection: AS_Shelter2,AS_Vents,0,0,0,0,0,0
-Connection: AS_Shelter1,AS_Pylons,0,0,0,0,0,0
-Connection: AS_Pylons,AS_Waterfall,0,0,0,0,0,0
-Connection: AS_Waterfall,AS_Sidedrop,0,0,0,0,0,0
-Connection: AS_Sidedrop,AS_Drills,0,0,0,0,0,0
-Connection: AS_Vents,AS_moshPit,0,0,0,0,0,0
-Connection: AS_moshPit,AS_Glass Floors,0,0,0,0,0,0
-Connection: AS_Glass Floors,AS_Tower,0,0,0,0,0,0
-Connection: AS_Glass Floors,AS_Fan Pit,0,0,0,0,0,0
-Connection: AS_Tower,AS_Caos,0,0,0,0,0,0
-Connection: AS_Fan Pit,AS_Elevator,0,0,0,0,0,0
-Connection: AS_Elevator,AS_Pipemaze,0,0,0,0,0,0
-Connection: AS_Elevator,AS_Diagonal Drop,0,0,0,0,0,0
-Connection: AS_Pipemaze,AS_Water Container,0,0,0,0,0,0
-Connection: AS_Pipemaze,AS_pit,0,0,0,0,0,0
-Connection: AS_Water Container,AS_Rupture,0,0,0,0,0,0
-Connection: AS_Rupture,AS_Tank Hall,0,0,0,0,0,0
-Connection: AS_Tank Hall,AS_Brain Tree,0,0,0,0,0,0
-Connection: AS_Tank Hall,AS_Machine Room,0,0,0,0,0,0
-Connection: AS_Brain Tree,AS_Swingroom,0,0,0,0,0,0
-Connection: AS_Swingroom,AS_Pipe Corridor,0,0,0,0,0,0
-Connection: AS_Swingroom,AS_Inside Pipes,0,0,0,0,0,0
-Connection: AS_Inside Pipes,AS_Grid,0,0,0,0,0,0
-Connection: AS_Grid,AS_Pillars,0,0,0,0,0,0
-Connection: AS_Pillars,AS_Rooms,0,0,0,0,0,0
-Connection: AS_Pillars,AS_Chimney,0,0,0,0,0,0
-Connection: AS_Pipe Corridor,AS_Supports,0,0,0,0,0,0
-Connection: AS_Supports,AS_Turbines,0,0,0,0,0,0
-Connection: AS_Turbines,AS_Balconies,0,0,0,0,0,0
-Connection: AS_Balconies,AS_Sky Island,0,0,0,0,0,0
-Connection: AS_Sky Island,AS_Sky Grid,0,0,0,0,0,0
-Connection: AS_Sky Grid,AS_Three Platforms,0,0,0,0,0,0
-Connection: AS_Three Platforms,AS_Sky Platforms,0,0,0,0,0,0
-Connection: AS_Sky Platforms,AS_Overhang,0,0,0,0,0,0
-Connection: AS_Overhang,AS_Underhang,0,0,0,0,0,0
-Connection: AS_Underhang,AS_Powergrid,0,0,0,0,0,0
-Connection: AS_Powergrid,AS_Charges,0,0,0,0,0,0
-Connection: AS_Charges,AS_Cables,0,0,0,0,0,0
+Connection: AS_Shelter1,AS_Pylons,7,30,36,27,1,3
+Connection: AS_Shelter1,AS_Totems,40,30,13,16,1,3
+Connection: AS_Pylons,AS_Waterfall,11,25,54,12,3,0
+Connection: AS_Waterfall,AS_Sidedrop,9,12,22,22,2,3
+Connection: AS_Sidedrop,AS_Drills,21,5,6,16,3,2
+Connection: AS_Totems,AS_Field,58,16,13,8,3,0
+Connection: AS_Field,AS_Courtyard,56,7,13,39,2,1
+Connection: AS_Courtyard,AS_Access,13,4,20,23,3,2
+Connection: AS_Access,AS_The Hub,39,2,23,7,3,3
+Connection: AS_The Hub,AS_Hole,56,7,50,28,3,3
+Connection: AS_The Hub,AS_Glass Arena,15,7,23,31,3,1
+Connection: AS_The Hub,AS_Growers,48,7,40,4,3,3
+Connection: AS_The Hub,AS_Alleyway,40,7,23,27,3,0
+Connection: AS_Hole,AS_Pipes,34,8,50,21,3,0
+Connection: AS_Pipes,AS_Bubble Arena,4,31,49,16,2,0
+Connection: AS_Pipes,AS_platforms,50,8,22,4,0,3
+Connection: AS_platforms,AS_Pole Sector,39,4,31,32,3,1
+Connection: AS_Pole Sector,AS_Bubbles,7,7,15,13,3,2
+Connection: AS_Bubbles,AS_Blocks,56,27,13,5,0,2
+Connection: AS_Growers,AS_Fog,23,31,47,24,2,0
+Connection: AS_Growers,AS_Outskirts,66,21,15,22,0,2
+Connection: AS_Outskirts,AS_Stoneheads,58,11,12,26,0,2
+Connection: AS_Stoneheads,AS_Blocks,57,17,13,36,0,2
+Connection: AS_Blocks,AS_Birdies,59,11,17,28,0,1
+Connection: AS_Blocks,AS_Ditch,45,5,4,29,0,2
+Connection: AS_Alleyway,AS_Ditch,51,27,33,30,0,0
+Connection: AS_Birdies,AS_Extractor,49,13,15,9,0,3
+Connection: AS_Extractor,AS_Dusty Vent,53,26,19,10,0,2
+Connection: AS_Dusty Vent,AS_Waste Dump,57,32,46,3,1,3
+Connection: AS_Dusty Vent,AS_feedLizards,52,10,34,32,0,1
+Connection: AS_Ditch,AS_Colloseum,9,14,49,4,2,0
+Connection: AS_Ditch,AS_Range,46,14,2,27,0,2
+Connection: AS_Range,AS_poles2,48,27,16,7,0,3
+Connection: AS_Range,AS_showLevel,2,22,6,9,2,2
+Connection: AS_showLevel,AS_Shaft,6,7,8,17,2,1
+Connection: AS_poles2,AS_Loops,49,9,44,18,3,3
+Connection: AS_Loops,AS_feedLizards,16,6,34,36,2,3
+Connection: AS_feedLizards,AS_Dark Hall,37,36,48,8,3,0
+Connection: AS_Waste Dump,AS_Dark Hall,59,30,3,8,0,2
+Connection: AS_Dark Hall,AS_Garbage,48,33,12,33,0,1
+Connection: AS_Dark Hall,AS_Small Room,3,33,33,22,2,0
+Connection: AS_Dark Hall,AS_Levels,48,26,2,34,0,2
+Connection: AS_Dark Hall,AS_Six Box,11,23,3,24,3,3
+Connection: AS_Small Room,AS_Roof,14,22,45,5,2,3
+Connection: AS_Roof,AS_SpaciousRoom,6,11,8,28,1,3
+Connection: AS_Six Box,AS_underground fan,47,10,14,9,3,2
+Connection: AS_Garbage,AS_Big Room,52,6,37,5,3,3
+Connection: AS_Big Room,AS_Inside Pipes,49,5,9,10,3,2
+Connection: AS_Levels,AS_Shelter2,49,11,7,37,0,1
+Connection: AS_Shelter2,AS_Vents,40,37,11,4,1,3
+Connection: AS_Vents,AS_moshPit,42,4,29,37,3,2
+Connection: AS_moshPit,AS_Glass Floors,41,37,1,19,0,2
+Connection: AS_Glass Floors,AS_Tower,1,17,36,2,2,3
+Connection: AS_Glass Floors,AS_Fan Pit,49,11,8,18,3,2
+Connection: AS_Tower,AS_Caos,25,2,47,25,3,0
+Connection: AS_Fan Pit,AS_Elevator,46,18,8,17,0,2
+Connection: AS_Elevator,AS_Pipemaze,41,29,23,36,0,0
+Connection: AS_Elevator,AS_Diagonal Drop,39,8,41,4,0,3
+Connection: AS_Pipemaze,AS_Water Container,49,30,56,15,0,0
+Connection: AS_Pipemaze,AS_pit,10,6,27,2,3,3
+Connection: AS_Water Container,AS_Rupture,15,19,50,26,2,3
+Connection: AS_Rupture,AS_Tank Hall,10,7,42,6,0,3
+Connection: AS_Tank Hall,AS_Brain Tree,5,32,37,11,1,0
+Connection: AS_Tank Hall,AS_Machine Room,5,6,44,5,3,3
+Connection: AS_Brain Tree,AS_Swingroom,10,11,49,3,2,0
+Connection: AS_Swingroom,AS_Pipe Corridor,5,9,45,8,3,0
+Connection: AS_Swingroom,AS_Inside Pipes,6,3,29,10,2,0
+Connection: AS_Inside Pipes,AS_Grid,35,25,57,4,1,0
+Connection: AS_Grid,AS_Pillars,26,28,35,16,3,3
+Connection: AS_Pillars,AS_Rooms,15,16,49,6,3,0
+Connection: AS_Pillars,AS_Chimney,31,16,35,12,3,3
+Connection: AS_Pipe Corridor,AS_Supports,2,15,58,9,2,0
+Connection: AS_Supports,AS_Turbines,14,6,53,8,3,3
+Connection: AS_Turbines,AS_Balconies,12,36,49,27,2,0
+Connection: AS_Balconies,AS_Sky Island,6,14,23,9,2,3
+Connection: AS_Sky Island,AS_Sky Grid,48,9,18,33,3,3
+Connection: AS_Sky Grid,AS_Three Platforms,51,18,40,30,3,0
+Connection: AS_Three Platforms,AS_Sky Platforms,29,6,34,11,2,3
+Connection: AS_Sky Platforms,AS_Overhang,54,22,17,36,3,2
+Connection: AS_Overhang,AS_Underhang,49,24,6,33,0,1
+Connection: AS_Underhang,AS_Powergrid,37,33,5,27,1,2
+Connection: AS_Powergrid,AS_Charges,45,31,47,6,0,0
+Connection: AS_Charges,AS_Cables,47,24,13,20,0,2

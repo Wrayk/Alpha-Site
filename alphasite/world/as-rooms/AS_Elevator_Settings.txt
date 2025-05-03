@@ -2,6 +2,6 @@ Template: as_settingstemplate_denseurban
 Clouds: 0
 Grime: 0.25
 Palette: 317
-EffectColorA: 3
-AmbientSounds: OMNI><Mech Basic.wav><707.6455><387.4205><0.25><1, 
+EffectColorA: 2
+AmbientSounds: OMNI><Mech Basic.wav><707.6455><387.4205><0.4347826><1, 
 WetTerrain: OFF

@@ -36,11 +36,11 @@ AS_Range : AS_Ditch, AS_poles2, AS_showLevel : SWARMROOM
 AS_showLevel : AS_Range, AS_Shaft
 AS_Shaft : AS_showLevel, DISCONNECTED : SWARMROOM
 AS_poles2 : AS_Loops, AS_Range : SWARMROOM
-AS_Loops : AS_poles2, AS_feedLizards : SWARMROOM
+AS_Loops : AS_feedLizards, AS_poles2 : SWARMROOM
 AS_feedLizards : AS_Loops, AS_Dark Hall, AS_Dusty Vent
 AS_Waste Dump : AS_Dark Hall, AS_Dusty Vent
 AS_Dark Hall : AS_Garbage, AS_Small Room, AS_Levels, AS_Six Box, AS_feedLizards, AS_Waste Dump
-AS_Small Room : AS_Roof, AS_Dark Hall
+AS_Small Room : AS_Roof, AS_Dark Hall, DISCONNECTED, DISCONNECTED
 AS_Roof : AS_SpaciousRoom, AS_Small Room : SWARMROOM
 AS_Six Box : AS_Dark Hall, AS_underground fan
 AS_underground fan : AS_Six Box : SWARMROOM
@@ -58,7 +58,7 @@ AS_Caos : AS_Tower, DISCONNECTED : SWARMROOM
 AS_Fan Pit : AS_Glass Floors, AS_Elevator : SWARMROOM
 AS_Elevator : AS_Pipemaze, AS_Fan Pit, AS_Diagonal Drop
 AS_Diagonal Drop : AS_Elevator : SWARMROOM
-AS_Pipemaze : AS_Elevator, AS_Water Container, AS_pit : SWARMROOM
+AS_Pipemaze : AS_Elevator, AS_pit, AS_Water Container : SWARMROOM
 AS_pit : AS_Pipemaze : SWARMROOM
 AS_Water Container : AS_Rupture, AS_Pipemaze : SWARMROOM
 AS_Rupture : AS_Water Container, AS_Tank Hall : SWARMROOM

@@ -1,2 +1,2 @@
 Template: as_settingstemplate_denseurban
-EffectColorB: 2
+EffectColorB: 9
