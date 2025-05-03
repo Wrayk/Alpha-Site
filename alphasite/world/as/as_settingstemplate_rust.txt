@@ -17,4 +17,4 @@ WaterReflectionAlpha: 1
 Palette: 321
 EffectColorA: 9
 EffectColorB: 8
-AmbientSounds: OMNI><am_env-lightwind.ogg><-99.44678><0.4646912><0.4565217><1, OMNI><mech active.wav><703.0589><306.1911><0.1086956><1, 
+AmbientSounds: OMNI><mech active.wav><703.0589><306.1911><0.1086956><1, 
