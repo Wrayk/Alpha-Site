@@ -2,6 +2,7 @@ Template: as_settingstemplate_underground
 DangerType: Flood
 CeilingDrips: 0.6195652
 Grime: 0
+RandomItemDensity: 0.1521739
 Palette: 318
 EffectColorA: 0
 EffectColorB: 0
