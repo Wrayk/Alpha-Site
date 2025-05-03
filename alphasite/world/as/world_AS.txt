@@ -38,7 +38,7 @@ AS_Shaft : AS_showLevel, DISCONNECTED : SWARMROOM
 AS_poles2 : AS_Loops, AS_Range : SWARMROOM
 AS_Loops : AS_feedLizards, AS_poles2 : SWARMROOM
 AS_feedLizards : AS_Loops, AS_Dark Hall, AS_Dusty Vent
-AS_Waste Dump : AS_Dark Hall, AS_Dusty Vent
+AS_Waste Dump : AS_Dark Hall, DISCONNECTED, DISCONNECTED, AS_Dusty Vent
 AS_Dark Hall : AS_Garbage, AS_Small Room, AS_Levels, AS_Six Box, AS_feedLizards, AS_Waste Dump
 AS_Small Room : AS_Roof, AS_Dark Hall, DISCONNECTED, DISCONNECTED
 AS_Roof : AS_SpaciousRoom, AS_Small Room : SWARMROOM
