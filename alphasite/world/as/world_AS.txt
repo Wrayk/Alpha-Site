@@ -2,6 +2,12 @@ CONDITIONAL LINKS
 END CONDITIONAL LINKS
 
 ROOMS
+AS_Shelter1 : AS_Pylons, AS_Totems
+AS_Pylons : AS_Shelter1, DISCONNECTED, AS_Waterfall
+AS_Waterfall : AS_Sidedrop, AS_Pylons
+AS_Sidedrop : AS_Waterfall, AS_Drills : SWARMROOM
+AS_Drills : AS_Sidedrop, DISCONNECTED
+
 AS_Totems : AS_Shelter1, AS_Field
 AS_Field : AS_Totems, AS_Courtyard : SWARMROOM
 AS_Courtyard : AS_Field, AS_Access : SWARMROOM
@@ -43,12 +49,6 @@ AS_Big Room : AS_Garbage, AS_Inside Pipes : SWARMROOM
 AS_SpaciousRoom : AS_Roof
 AS_Levels : AS_Dark Hall, AS_Shelter2 : SWARMROOM
 AS_Shelter2 : AS_Levels, AS_Vents
-
-AS_Shelter1 : AS_Pylons, AS_Totems
-AS_Pylons : AS_Shelter1, DISCONNECTED, AS_Waterfall
-AS_Waterfall : AS_Sidedrop, AS_Pylons
-AS_Sidedrop : AS_Waterfall, AS_Drills : SWARMROOM
-AS_Drills : AS_Sidedrop, DISCONNECTED
 
 AS_Vents : AS_Shelter2, DISCONNECTED, AS_moshPit
 AS_moshPit : AS_Vents, AS_Glass Floors : SWARMROOM
