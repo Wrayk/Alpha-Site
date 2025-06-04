@@ -54,6 +54,7 @@ AS_Rupture
 AS_Shaft
 AS_Shelter1
 AS_Shelter2
+AS_shipyard
 AS_showLevel
 AS_Sidedrop
 AS_Six Box
@@ -74,6 +75,7 @@ AS_Turbines
 AS_underground fan
 AS_Underhang
 AS_Vents
+AS_visage
 AS_Waste Dump
 AS_Water Container
 AS_Waterfall

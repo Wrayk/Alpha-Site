@@ -87,6 +87,10 @@ AS_Powergrid : AS_Charges, AS_Underhang
 AS_Charges : AS_Cables, AS_Powergrid
 AS_Cables : AS_Charges, DISCONNECTED
 
+
+AS_shipyard : DISCONNECTED
+AS_visage : DISCONNECTED
+
 END ROOMS
 
 CREATURES
