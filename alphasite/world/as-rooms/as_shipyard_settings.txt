@@ -1,1 +1,2 @@
 Template: as_settingstemplate_rust
+WetTerrain: OFF

@@ -1,6 +1,6 @@
-Template: as_settingstemplate_denseurban
-Clouds: 0
+Template: as_settingstemplate_underground
+Clouds: 1
 Grime: 0.3913043
-Palette: 317
+Palette: 318
 EffectColorB: 9
 WetTerrain: OFF

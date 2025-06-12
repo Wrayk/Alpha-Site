@@ -1,4 +1,4 @@
-Template: as_settingstemplate_denseurban
-Palette: 317
-EffectColorA: 2
+Template: as_settingstemplate_rust
+Palette: 321
+EffectColorA: 8
 WetTerrain: OFF

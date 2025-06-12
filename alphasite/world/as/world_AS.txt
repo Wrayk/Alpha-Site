@@ -90,6 +90,7 @@ AS_Cables : AS_Charges, DISCONNECTED
 
 AS_shipyard : DISCONNECTED
 AS_visage : DISCONNECTED
+AS_Pile : DISCONNECTED
 
 END ROOMS
 
