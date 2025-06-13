@@ -1,7 +1,0 @@
-Wrayk - discord/github infrastructure
-Tronsx - levels
-dedniko - cool tiles, levels
-
-special thanks:
-AndrewFMs - alpha palettes
-Dakras - feed lizards room

@@ -1,0 +1,6 @@
+suburban:
+roof
+spacious room
+
+dense urban:
+machine room
